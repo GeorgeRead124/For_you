@@ -20,21 +20,21 @@ const CONFIG = {
   // ---- 2. Our story timeline ----
   // Add or remove entries freely — the timeline renders however many you list.
   timeline: [
-    { title: "The first message",   desc: "Neither of us expected the conversation to last that long.", photo: "photos/story-1.jpg" },
-    { title: "First date",          desc: "I was more nervous than I let on. You noticed anyway.", photo: "photos/story-2.jpg" },
-    { title: "The trip",            desc: "10 days, one map, and the first time I knew.", photo: "photos/story-3.jpg" },
-    { title: "Moving in",           desc: "Photos everywhere, and somehow it already felt like home.", photo: "photos/story-4.jpg" },
-    { title: "Right now",           desc: "Still choosing you, on purpose, every day.", photo: "photos/story-5.jpg" }
+    { title: "The first message",   desc: "Neither of us expected the conversation to last that long.", photo: "photos/story-1.JPG" },
+    { title: "First date",          desc: "I was more nervous than I let on. You noticed anyway.", photo: "photos/story-2.JPG" },
+    { title: "The trip",            desc: "10 days, one map, and the first time I knew.", photo: "photos/story-3.JPG" },
+    { title: "Moving in",           desc: "Photos everywhere, and somehow it already felt like home.", photo: "photos/story-4.JPG" },
+    { title: "Right now",           desc: "Still choosing you, on purpose, every day.", photo: "photos/story-5.JPG" }
   ],
 
   // ---- 3. Memories gallery ----
   gallery: [
     { src: "photos/memory-1.jpg", caption: "That weekend by the coast" },
-    { src: "photos/memory-2.jpg", caption: "Your terrible/wonderful pancakes" },
-    { src: "photos/memory-3.jpg", caption: "The concert we almost missed" },
-    { src: "photos/memory-4.jpg", caption: "Rainy Sunday, no plans" },
-    { src: "photos/memory-5.jpg", caption: "The hike you said would be 'easy'" },
-    { src: "photos/memory-6.jpg", caption: "Just an ordinary, perfect evening" }
+    { src: "photos/memory-2.JPG", caption: "Your terrible/wonderful pancakes" },
+    { src: "photos/memory-3.JPG", caption: "The concert we almost missed" },
+    { src: "photos/memory-4.JPG", caption: "Rainy Sunday, no plans" },
+    { src: "photos/memory-5.JPG", caption: "The hike you said would be 'easy'" },
+    { src: "photos/memory-6.JPG", caption: "Just an ordinary, perfect evening" }
   ],
 
   // ---- 4. Little things ----
@@ -77,11 +77,11 @@ const CONFIG = {
   invitation: {
     eyebrow: "You're invited",
     title: "One more evening, just us",
-    time: "when you are in ASSIUT",
-    location: "the 10 days Jounrny + fooood ", 
-    activity: "see you",
+    time: "when you are in Assiut",
+    location: "The 10 days journey + food",
+    activity: "See you",
     dressCode: "University close",
-    note: "Let's give our galary more photos",
+    note: "Let's give our gallery more photos"
   },
 
   // ---- music ----
